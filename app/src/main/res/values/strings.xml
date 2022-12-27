@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BeyondSchool</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="_850_common_words">850 COMMON WORDS</string>
+    <string name="learn_spelling_of_80_of_the_words_children_use_in_their_writing">Learn Spelling of 80% of the words Children use in their Writing</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="level_1">Level 1</string>
+    <string name="Level_1">level1</string>
+</resources>
